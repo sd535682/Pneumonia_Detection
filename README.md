@@ -1,6 +1,8 @@
 Pneumonia Detection Using Convolutional Neural Networks (CNN) on Chest X-ray Dataset by Paul Mooney
 Dataset - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
+Final year Major group project of IEM
+
 Our project focuses on developing a pneumonia detection system utilizing Convolutional Neural Networks (CNN) 
 trained on a comprehensive chest X-ray dataset. The primary objective is to accurately identify pneumonia cases from chest X-ray images.
 The process begins with preprocessing steps where we isolate and mask the images to focus on the lung regions, 
